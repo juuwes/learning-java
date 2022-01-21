@@ -1,2 +1,2 @@
 # learning-java
-exercises on variables and conversion - casting syntax
+fixing exercises on variables; java type casting. (alura cursos).
